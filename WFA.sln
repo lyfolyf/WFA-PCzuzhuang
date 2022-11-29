@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA", "WFA\WFA.csproj", "{BDB10FD4-C3CB-4E1A-BB1B-B6FFCDA9477A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHalconHikvision", "IHalconHikvision\IHalconHikvision.csproj", "{51F02894-C2CB-4CA0-9013-7D45D57B00C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB10FD4-C3CB-4E1A-BB1B-B6FFCDA9477A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB10FD4-C3CB-4E1A-BB1B-B6FFCDA9477A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB10FD4-C3CB-4E1A-BB1B-B6FFCDA9477A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB10FD4-C3CB-4E1A-BB1B-B6FFCDA9477A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F02894-C2CB-4CA0-9013-7D45D57B00C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F02894-C2CB-4CA0-9013-7D45D57B00C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F02894-C2CB-4CA0-9013-7D45D57B00C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F02894-C2CB-4CA0-9013-7D45D57B00C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E610F6D6-00A5-4916-9FBF-8A5F1AD0989D}
+	EndGlobalSection
+EndGlobal
